@@ -15,7 +15,7 @@ Karena’s automated system flags **2,000 accounts daily**, but **60-70% are fal
 * **Preprocessing:** Removed non-predictive IDs, handled 25% missing data in skill-based columns, and used Stratified K-Fold validation.
 * **Optimization:** Focused on **Recall**, ensuring actual cheaters are rarely missed, even at the cost of some precision.
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 The model was evaluated using the **Macro  Score**, which weights recall twice as heavily as precision.
 
